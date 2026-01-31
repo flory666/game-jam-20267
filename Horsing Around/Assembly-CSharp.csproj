@@ -61,31 +61,40 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.6f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\VfxReference.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\PlayableVfx.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxAddons\ParticleSystemStartStopLifetime.cs" />
+    <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualJoystick.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\ProjectileVfx.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\Character.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\BindingPointType.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\LocationVfx.cs" />
+    <Compile Include="Assets\StarterAssets\Mobile\Scripts\Utilities\MobileDisableAutoSwitchControls.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VFXTester.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\Shields\Shield.cs" />
+    <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxAddons\ParticleSystemScaleLifetime.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\AOE\WindAoeVfx.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxAddons\TrailScaleWithHierarchy.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\Beams\BeamVfx.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\ParticleSystemVfx.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\IHittable.cs" />
+    <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\BindingPoints.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\Shields\EarthShield.cs" />
+    <Compile Include="Assets\StarterAssets\Mobile\Scripts\CanvasInputs\UICanvasControllerInput.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\VfxData.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\Shields\ParticleSystemShield.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\BaseVfx.cs" />
     <Compile Include="Assets\PixPlays\Components\Scripts\VfxSystem\Shields\WaterShield.cs" />
+    <Compile Include="Assets\StarterAssets\ThirdPersonController\Scripts\BasicRigidBodyPush.cs" />
+    <Compile Include="Assets\StarterAssets\InputSystem\StarterAssetsInputs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ithappy\Cartoon_City_Free\Render_Pipeline_Convert\Render_Pipeline_Instructions_Unity_6.txt" />
+    <None Include="Assets\StarterAssets\license.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1160,8 +1169,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.PackageValidationSuite.Editor.Extension">
+      <HintPath>Library\ScriptAssemblies\Unity.PackageValidationSuite.Editor.Extension.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.PackageValidationSuite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PackageValidationSuite.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
@@ -1206,6 +1227,10 @@
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
@@ -1310,6 +1335,10 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">

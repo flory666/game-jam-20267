@@ -14,3 +14,13 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Visual Studio / C# project files
+*.sln
+*.csproj
+*.csproj.user
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd

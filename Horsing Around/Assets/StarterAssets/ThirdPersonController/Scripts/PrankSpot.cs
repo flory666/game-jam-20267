@@ -3,71 +3,70 @@ using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using System.Collections; 
 
-public enum PrankType { Graffiti, FireAlarm, LockDoor }
+public enum PrankType { Graffiti, FireAlarm, KickObject }
 
-[RequireComponent(typeof(AudioSource))] // This forces Unity to add an AudioSource if you forget
+[RequireComponent(typeof(AudioSource))]
 public class PrankSpot : MonoBehaviour
 {
     [Header("Settings")]
     public PrankType myPrankType;   
     
     [Header("Prank Sound")]
-    public AudioClip soundEffect; // DRAG YOUR MP3 HERE (Spray, Bell, Click)
+    public AudioClip soundEffect; 
 
     [Header("Timers")]
-    public float graffitiFadeTime = 10f; 
-    public float alarmDuration = 10f;    
-    public float lockDuration = 10f;     
+    public float graffitiFadeTime = 5f; 
+    public float alarmDuration = 5f;    // Alarm rings for this long
+    public float kickRespawnTime = 10f; 
+
+    [Header("Kick Settings")]
+    public float kickForce = 15f; 
 
     [Header("Drag Objects Here")]
     public GameObject targetObject; 
 
     // Private variables
     private GameObject globalPrompt;
-    private AudioSource myAudioSource; // The speaker
+    private AudioSource myAudioSource; 
     private bool isPlayerClose = false;
     private bool hasBeenPranked = false;
+    
+    private Transform playerTransform; 
+
+    // Respawn Memory
+    private Vector3 originalPosition;
+    private Quaternion originalRotation;
 
     void Start()
     {
-        // 1. Get the Audio Source attached to this object
         myAudioSource = GetComponent<AudioSource>();
-        myAudioSource.playOnAwake = false; // Just to be safe
+        myAudioSource.playOnAwake = false; 
 
-        // 2. Find UI
-        globalPrompt = GameObject.FindGameObjectWithTag("PrankUI");
-        if (globalPrompt != null) globalPrompt.SetActive(false);
-
-        // 3. Setup Initial State
         if (targetObject != null)
         {
-            switch (myPrankType)
-            {
-                case PrankType.Graffiti:
-                    SetGraffitiAlpha(0f); 
-                    break;
-                case PrankType.LockDoor:
-                    targetObject.SetActive(false); 
-                    break;
-                case PrankType.FireAlarm:
-                    // Alarm target usually doesn't need hiding, just sound
-                    break;
-            }
+            originalPosition = targetObject.transform.position;
+            originalRotation = targetObject.transform.rotation;
+        }
+
+        globalPrompt = GameObject.FindGameObjectWithTag("PrankUI");
+        if (globalPrompt == null) 
+        {
+             Transform found = Canvas.FindObjectOfType<Canvas>().transform.Find("InteractionPrompt");
+             if (found != null) globalPrompt = found.gameObject;
+        }
+        if (globalPrompt != null) globalPrompt.SetActive(false);
+
+        if (targetObject != null && myPrankType == PrankType.Graffiti)
+        {
+            SetGraffitiAlpha(0f); 
         }
     }
 
     void Update()
     {
-        // INPUT CHECK
         if (isPlayerClose && !hasBeenPranked && Keyboard.current.eKey.wasPressedThisFrame)
         {
             DoThePrank();
-        }
-
-        // SMART UI REFRESH
-        if (isPlayerClose && !hasBeenPranked && globalPrompt != null && !globalPrompt.activeSelf)
-        {
-            globalPrompt.SetActive(true);
         }
     }
 
@@ -79,28 +78,63 @@ public class PrankSpot : MonoBehaviour
         switch (myPrankType)
         {
             case PrankType.Graffiti:
-                // Play Spray Sound (One Shot)
                 if (soundEffect != null) myAudioSource.PlayOneShot(soundEffect);
-                
                 SetGraffitiAlpha(1f); 
                 StartCoroutine(GraffitiRoutine()); 
                 break;
 
             case PrankType.FireAlarm:
-                // Alarm is special: it needs to LOOP for the duration
                 StartCoroutine(FireAlarmRoutine());
                 break;
 
-            case PrankType.LockDoor:
-                // Play Lock Click (One Shot)
+            case PrankType.KickObject:
                 if (soundEffect != null) myAudioSource.PlayOneShot(soundEffect);
+                
+                Rigidbody rb = targetObject.GetComponent<Rigidbody>();
+                if (rb != null && playerTransform != null)
+                {
+                    Vector3 playerDir = playerTransform.forward;
+                    Vector3 kickDir = (playerDir + Vector3.up * 0.5f).normalized;
 
-                StartCoroutine(LockDoorRoutine());
+                    rb.AddForce(kickDir * kickForce, ForceMode.Impulse);
+                    rb.AddTorque(Random.insideUnitSphere * kickForce, ForceMode.Impulse);
+                }
+                
+                StartCoroutine(KickRespawnRoutine());
                 break;
         }
     }
 
-    // --- 1. GRAFFITI ROUTINE ---
+    // --- RESET LOGIC ---
+    void ResetPrank()
+    {
+        hasBeenPranked = false; 
+        if (isPlayerClose && globalPrompt != null)
+        {
+            globalPrompt.SetActive(true);
+        }
+    }
+
+    // --- 1. KICK RESPAWN ROUTINE ---
+    IEnumerator KickRespawnRoutine()
+    {
+        yield return new WaitForSeconds(kickRespawnTime);
+
+        if (targetObject != null)
+        {
+            Rigidbody rb = targetObject.GetComponent<Rigidbody>();
+            if (rb != null)
+            {
+                rb.linearVelocity = Vector3.zero; 
+                rb.angularVelocity = Vector3.zero; 
+            }
+            targetObject.transform.position = originalPosition;
+            targetObject.transform.rotation = originalRotation;
+        }
+        ResetPrank(); 
+    }
+
+    // --- 2. GRAFFITI ROUTINE ---
     IEnumerator GraffitiRoutine()
     {
         float elapsedTime = 0f;
@@ -112,39 +146,33 @@ public class PrankSpot : MonoBehaviour
             yield return null; 
         }
         SetGraffitiAlpha(0f);   
-        hasBeenPranked = false; 
+        ResetPrank(); 
     }
 
-    // --- 2. FIRE ALARM ROUTINE (Loops Audio) ---
+    // --- 3. FIRE ALARM ROUTINE (UPDATED) ---
     IEnumerator FireAlarmRoutine()
     {
+        // A. PLAY SOUND
         if (soundEffect != null)
         {
             myAudioSource.clip = soundEffect;
-            myAudioSource.loop = true;  // Turn ON looping
+            myAudioSource.loop = true;  
             myAudioSource.Play();
         }
 
-        // Wait for duration
+        // B. WAIT FOR DURATION (e.g. 5 seconds)
         yield return new WaitForSeconds(alarmDuration);
 
-        // Stop Audio
+        // C. STOP SOUND
         myAudioSource.Stop();
-        myAudioSource.loop = false; // Turn OFF looping
-        
-        hasBeenPranked = false; 
-    }
+        myAudioSource.loop = false; 
 
-    // --- 3. LOCK DOOR ROUTINE ---
-    IEnumerator LockDoorRoutine()
-    {
-        if (targetObject != null) targetObject.SetActive(true);
+        // D. SILENT COOLDOWN (Duration x 10)
+        // If duration is 5s, we wait 50s here.
+        yield return new WaitForSeconds(alarmDuration * 10f);
 
-        yield return new WaitForSeconds(lockDuration);
-
-        if (targetObject != null) targetObject.SetActive(false);
-
-        hasBeenPranked = false; 
+        // E. RESET
+        ResetPrank(); 
     }
 
     void SetGraffitiAlpha(float alpha)
@@ -161,10 +189,12 @@ public class PrankSpot : MonoBehaviour
         }
     }
 
+    // --- TRIGGER ZONES ---
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
         {
+            playerTransform = other.transform; 
             isPlayerClose = true;
             if (globalPrompt != null && !hasBeenPranked) globalPrompt.SetActive(true);
         }

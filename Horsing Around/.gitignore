@@ -9,6 +9,7 @@
 
 # IDE
 .vscode/
+.vs/
 .idea/
 
 # OS

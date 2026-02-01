@@ -30,15 +30,13 @@ public class PoliceAI : MonoBehaviour
 
     void Start()
     {
-        // Folosește Rigidbody în loc de CharacterController
         rb = GetComponent<Rigidbody>();
         if (rb == null)
         {
             rb = gameObject.AddComponent<Rigidbody>();
         }
 
-        // Configurează Rigidbody
-        rb.freezeRotation = true; // Nu vrem să cadă sau să se rotească fizic
+        rb.freezeRotation = true; 
         rb.useGravity = true;
         rb.constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationZ;
 
@@ -141,7 +139,7 @@ public class PoliceAI : MonoBehaviour
     void MoveTowards(Vector3 targetPosition, float speed)
     {
         Vector3 direction = (targetPosition - transform.position).normalized;
-        direction.y = 0; // Mișcare doar pe orizontală
+        direction.y = 0; 
 
         if (direction != Vector3.zero)
         {
@@ -149,9 +147,8 @@ public class PoliceAI : MonoBehaviour
             transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, rotationSpeed * Time.deltaTime);
         }
 
-        // Mișcare cu Rigidbody (mai smooth)
         Vector3 newPosition = transform.position + direction * speed * Time.deltaTime;
-        newPosition.y = transform.position.y; // Menține Y-ul constant
+        newPosition.y = transform.position.y; 
         rb.MovePosition(newPosition);
     }
 
@@ -203,7 +200,7 @@ public class PoliceAI : MonoBehaviour
         Debug.Log("PLAYER CAUGHT! GAME OVER!");
 
         isChasing = false;
-        rb.linearVelocity = Vector3.zero; // Oprește-l complet
+        rb.linearVelocity = Vector3.zero;
     }
 
     void OnDrawGizmosSelected()

@@ -62,7 +62,7 @@ public class PrankSpot : MonoBehaviour
         }
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (isPlayerClose && !hasBeenPranked && Keyboard.current.eKey.wasPressedThisFrame)
         {

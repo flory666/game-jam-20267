@@ -212,9 +212,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -331,9 +351,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -553,9 +593,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -672,9 +732,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -848,9 +928,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -967,9 +1067,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1281,6 +1401,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (9)
@@ -1525,6 +1649,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (1)
@@ -1570,9 +1698,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1746,9 +1894,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1938,6 +2106,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (8)
@@ -2050,9 +2222,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2235,9 +2427,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2335,6 +2547,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (5)
@@ -2397,6 +2613,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (3)
@@ -2442,9 +2662,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2623,9 +2863,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2803,9 +3063,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2922,9 +3202,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3053,6 +3353,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (2)
@@ -3115,6 +3419,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash
@@ -3165,9 +3473,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3354,9 +3682,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3473,9 +3821,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3597,9 +3965,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4034,9 +4422,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4153,9 +4561,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4293,6 +4721,10 @@ PrefabInstance:
       propertyPath: MinDistance
       value: 0.9489994
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (6)
@@ -4338,9 +4770,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4469,6 +4921,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (7)
@@ -4514,9 +4970,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4633,9 +5109,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4757,9 +5253,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4876,9 +5392,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5133,6 +5669,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (4)
@@ -5183,9 +5723,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5302,9 +5862,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5438,6 +6018,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (3)
@@ -5488,9 +6072,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5629,6 +6233,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash
@@ -5674,9 +6282,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5850,9 +6478,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6026,9 +6674,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6155,9 +6823,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6353,9 +7041,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6586,9 +7294,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6717,6 +7445,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
       value: KickTheTrash (2)
@@ -6762,9 +7494,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7005,9 +7757,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7135,6 +7907,10 @@ PrefabInstance:
     - target: {fileID: 834523464617329090, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4595987118370549631, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8498787723786766673, guid: f0b26a2522a2700489dffdfbc8c7084a, type: 3}
       propertyPath: m_Name
@@ -7416,9 +8192,29 @@ PrefabInstance:
       propertyPath: m_Center.z
       value: -145.3
       objectReference: {fileID: 0}
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini) (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7531,6 +8327,10 @@ PrefabInstance:
       propertyPath: alarmDuration
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 639075905111687093, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1175998823780511530, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.01
@@ -7551,6 +8351,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 137.88
       objectReference: {fileID: 0}
+    - target: {fileID: 1857844786867232647, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2082992633873950961, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: MinDistance
       value: 0.97787476
@@ -7562,6 +8366,10 @@ PrefabInstance:
     - target: {fileID: 2202386799476372701, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: alarmDuration
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2272677230987787489, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2377233232869221455, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: alarmDuration
@@ -7587,6 +8395,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0.1
       objectReference: {fileID: 0}
+    - target: {fileID: 3352419331844939679, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3367596533384805337, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: alarmDuration
       value: 5
@@ -7598,6 +8410,10 @@ PrefabInstance:
     - target: {fileID: 3439594160667623772, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: m_LocalPosition.x
       value: 193.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 3647286509953679324, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3956694762907312878, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: alarmDuration
@@ -7638,6 +8454,10 @@ PrefabInstance:
     - target: {fileID: 4370082105784595386, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5019019231965919922, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5025632897335888474, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: alarmDuration
@@ -7715,6 +8535,10 @@ PrefabInstance:
       propertyPath: alarmDuration
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 6491495883663378751, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6906379672528342266, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: m_LocalPosition.z
       value: 62.19
@@ -7746,6 +8570,10 @@ PrefabInstance:
     - target: {fileID: 8298123802044223437, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: m_LocalPosition.x
       value: 149.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8384109879881209328, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8486926321158294126, guid: f87015a2b8f9b054fa026cd4a0945470, type: 3}
       propertyPath: alarmDuration
@@ -7986,9 +8814,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6821485087430738967}
     m_Modifications:
+    - target: {fileID: 4508569184687553683, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915253619721728516, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5486492372711807536, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_Name
       value: KickTheVan(mini)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5958660845849018686, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6148308471191524779, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052446736126181996, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
+      propertyPath: m_Convex
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482610713279900046, guid: a2cb712e42e83474c80866750d1f75a3, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8055,6 +8903,10 @@ PrefabInstance:
     - target: {fileID: 132225038223859370, guid: 68eb399c3b1d7a24ebcd7046571d5cb4, type: 3}
       propertyPath: SprintSpeed
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3269447496657093708, guid: 68eb399c3b1d7a24ebcd7046571d5cb4, type: 3}
+      propertyPath: m_SkinWidth
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 5546032261975243630, guid: 68eb399c3b1d7a24ebcd7046571d5cb4, type: 3}
       propertyPath: m_Name

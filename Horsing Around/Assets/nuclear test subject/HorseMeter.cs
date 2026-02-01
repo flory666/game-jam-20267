@@ -3,7 +3,7 @@ using UnityEngine.UI; // Needed for UI
 using UnityEngine.SceneManagement; // Needed to change scenes
 using UnityEngine.InputSystem; // Needed for "E" key
 
-public class HorseMeter : MonoBehaviour
+public class HorsingAroundMeter : MonoBehaviour
 {
     [Header("UI Settings")]
     public Slider meterSlider; // Drag your UI Slider here

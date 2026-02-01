@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using System.Collections; 
 
-public enum PrankType { Graffiti, FireAlarm, KickObject }
+public enum PrankType { Graffiti, FireAlarm, KickObject, CarAlarm }
 
 [RequireComponent(typeof(AudioSource))]
 public class PrankSpot : MonoBehaviour
@@ -85,6 +85,10 @@ public class PrankSpot : MonoBehaviour
 
             case PrankType.FireAlarm:
                 StartCoroutine(FireAlarmRoutine());
+                break;
+
+            case PrankType.CarAlarm:
+                StartCoroutine(CarAlarmRoutine());
                 break;
 
             case PrankType.KickObject:
@@ -173,6 +177,31 @@ public class PrankSpot : MonoBehaviour
 
         // E. RESET
         ResetPrank(); 
+    }
+
+    IEnumerator CarAlarmRoutine()
+    {
+        // A. PLAY SOUND
+        if (soundEffect != null)
+        {
+            myAudioSource.clip = soundEffect;
+            myAudioSource.loop = true;
+            myAudioSource.Play();
+        }
+
+        // B. WAIT FOR DURATION (e.g. 5 seconds)
+        yield return new WaitForSeconds(alarmDuration);
+
+        // C. STOP SOUND
+        myAudioSource.Stop();
+        myAudioSource.loop = false;
+
+        // D. SILENT COOLDOWN (Duration x 10)
+        // If duration is 5s, we wait 50s here.
+        yield return new WaitForSeconds(alarmDuration * 5f);
+
+        // E. RESET
+        ResetPrank();
     }
 
     void SetGraffitiAlpha(float alpha)

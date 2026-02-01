@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\",
+  "WorkspaceRootPath": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|d:\\gd\\games\\gamejam\\game-jam\\horsing around\\assets\\scripts\\ui\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e87cf1dccb8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@1e87cf1dccb8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\Pranks\\PrankSpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Pranks\\PrankSpot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\SettingsMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\MainMenuActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\MainMenuActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\ButtonHoverScale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\ButtonHoverScale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +35,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PauseMenuController.cs",
-              "DocumentMoniker": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\UI\\PauseMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseMenuController.cs",
-              "ToolTip": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\UI\\PauseMenuController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\PauseMenuController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAtwEoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T09:49:09.152Z",
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e87cf1dccb8\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e87cf1dccb8\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e87cf1dccb8\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e87cf1dccb8\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-01T11:10:42.733Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrankSpot.cs",
+              "DocumentMoniker": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\Pranks\\PrankSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pranks\\PrankSpot.cs",
+              "ToolTip": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\Pranks\\PrankSpot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pranks\\PrankSpot.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAMQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T08:58:06.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "ToolTip": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T16:14:14.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuActions.cs",
+              "DocumentMoniker": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\MainMenuActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenuActions.cs",
+              "ToolTip": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\MainMenuActions.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenuActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T13:11:11.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonHoverScale.cs",
+              "DocumentMoniker": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\ButtonHoverScale.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ButtonHoverScale.cs",
+              "ToolTip": "C:\\Users\\tarna\\Documents\\GitHub\\game-jam-20267\\Horsing Around\\Assets\\Scripts\\UI\\ButtonHoverScale.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ButtonHoverScale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T12:41:58.129Z"
             }
           ]
         }

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4350673595258482682}
   - component: {fileID: 3073825633067273854}
   m_Layer: 5
-  m_Name: horse meter
+  m_Name: HorsingAroundMeter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

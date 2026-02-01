@@ -53,8 +53,7 @@ namespace CityPeople
                 myClips = animator.runtimeAnimatorController.animationClips;
                 if (AutoPlayAnimations)
                 {
-                    PlayAnyClip();
-                    StartCoroutine(ShuffleClips());
+                    animator.Play("locom_m_basicWalk_30f");
                 }
             }
 

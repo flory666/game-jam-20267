@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class SettingsMenu : MonoBehaviour
@@ -10,16 +10,17 @@ public class SettingsMenu : MonoBehaviour
     [SerializeField] private Toggle fullscreenToggle;
     [SerializeField] private Slider volumeSlider;
 
+    [Header("Audio")]
+    [SerializeField] private AudioSource menuMusicSource;
+
     private const string FullscreenKey = "settings_fullscreen";
-    private const string VolumeKey = "settings_volume"; // 0..1
+    private const string VolumeKey = "menu_music_volume"; 
 
     private void Start()
     {
-        // Start closed
         if (settingsPanel != null)
             settingsPanel.SetActive(false);
 
-        // Load + apply fullscreen
         bool isFullscreen = PlayerPrefs.GetInt(FullscreenKey, Screen.fullScreen ? 1 : 0) == 1;
         Screen.fullScreen = isFullscreen;
 
@@ -29,10 +30,10 @@ public class SettingsMenu : MonoBehaviour
             fullscreenToggle.onValueChanged.AddListener(SetFullscreen);
         }
 
-        // Load + apply volume
-        float vol = PlayerPrefs.GetFloat(VolumeKey, 1f);
-        vol = Mathf.Clamp01(vol);
-        AudioListener.volume = vol;
+        float vol = Mathf.Clamp01(PlayerPrefs.GetFloat(VolumeKey, 0.5f));
+
+        if (menuMusicSource != null)
+            menuMusicSource.volume = vol;
 
         if (volumeSlider != null)
         {
@@ -41,7 +42,7 @@ public class SettingsMenu : MonoBehaviour
             volumeSlider.wholeNumbers = false;
 
             volumeSlider.value = vol;
-            volumeSlider.onValueChanged.AddListener(SetVolume);
+            volumeSlider.onValueChanged.AddListener(SetMusicVolume);
         }
     }
 
@@ -64,10 +65,12 @@ public class SettingsMenu : MonoBehaviour
         PlayerPrefs.Save();
     }
 
-    private void SetVolume(float value)
+    private void SetMusicVolume(float value)
     {
         value = Mathf.Clamp01(value);
-        AudioListener.volume = value;
+
+        if (menuMusicSource != null)
+            menuMusicSource.volume = value;
 
         PlayerPrefs.SetFloat(VolumeKey, value);
         PlayerPrefs.Save();

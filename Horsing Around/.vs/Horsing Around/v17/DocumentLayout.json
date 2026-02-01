@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|d:\\gd\\games\\gamejam\\game-jam\\horsing around\\assets\\scripts\\ui\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|d:\\gd\\games\\gamejam\\game-jam\\horsing around\\assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\assets\\scripts\\policeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\policeai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\assets\\nuclear test subject\\horsemeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|solutionrelative:assets\\nuclear test subject\\horsemeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\assets\\scripts\\ui\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\assets\\scripts\\ui\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76F26F53-8D12-DD6B-0C7C-7FD0E530F3BF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HorseMeter.cs",
+              "DocumentMoniker": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\nuclear test subject\\HorseMeter.cs",
+              "RelativeDocumentMoniker": "Assets\\nuclear test subject\\HorseMeter.cs",
+              "ToolTip": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\nuclear test subject\\HorseMeter.cs",
+              "RelativeToolTip": "Assets\\nuclear test subject\\HorseMeter.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:07:39.894Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverUI.cs",
+              "ToolTip": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverUI.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T11:02:00.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoliceAI.cs",
+              "DocumentMoniker": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\PoliceAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoliceAI.cs",
+              "ToolTip": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\PoliceAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoliceAI.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAYwOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T10:45:39.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "ToolTip": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SettingsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T10:40:33.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PauseMenuController.cs",
               "DocumentMoniker": "D:\\GD\\Games\\GameJam\\game-jam\\Horsing Around\\Assets\\Scripts\\UI\\PauseMenuController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseMenuController.cs",
@@ -26,8 +91,7 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\PauseMenuController.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAtwEoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T09:49:09.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T09:49:09.152Z"
             }
           ]
         }

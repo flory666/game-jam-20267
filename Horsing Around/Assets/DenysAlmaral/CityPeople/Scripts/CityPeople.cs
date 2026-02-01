@@ -58,16 +58,16 @@ namespace CityPeople
                 }
             }
 
-            if (AutoPlayAnimations)
-            {
-                //collider for detect clicks near the character
-                CapsuleCollider collider =  gameObject.AddComponent<CapsuleCollider>();
-                //average character dimentions
-                collider.center = new Vector3(0f, 0.8f, 0f);
-                collider.radius = 0.3f;
-                collider.height = 1.77f;
-                collider.direction = 1;
-            }
+            //if (AutoPlayAnimations)
+            //{
+            //    //collider for detect clicks near the character
+            //    CapsuleCollider collider =  gameObject.AddComponent<CapsuleCollider>();
+            //    //average character dimentions
+            //    collider.center = new Vector3(0f, 0.8f, 0f);
+            //    collider.radius = 0.3f;
+            //    collider.height = 1.77f;
+            //    collider.direction = 1;
+            //}
 
         }
 
